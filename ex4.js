@@ -20,3 +20,10 @@ let numeroGatos = 10;
 
 let futuro = "tendréis " + numeroGatos + " gatos";
 console.log(futuro);
+
+let proximaPareja = "Paula";
+let paisVivir = "EE.UU.";
+let trabajoEnsueño = "Web Developer";
+
+futuro = "Tú estarás " + paisVivir + " trabajando de " + trabajoEnsueño + " y tu pareja será " + proximaPareja + " y tendréis " + numeroGatos + " gatos.";
+console.log(futuro);
