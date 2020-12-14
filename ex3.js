@@ -5,11 +5,10 @@
 let nombre = "Mad";
 let apellido = "Max";
 
-let nombreCompleto = "¿Me llamo " + nombre + " " + apellido + "?";
+let nombreCompleto = "Me llamo " + nombre + " " + apellido;
 
 /**
- * Pregunta 1: ¿Qué valor tengo que asignar a 'nombreCompleto' para que me muestre pantalla:
- *   * "Me llamo Mad Max?"
+ * Pregunta 1: ¿Qué valor tengo que asignar a 'nombreCompleto' para que me muestre pantalla: "Me llamo Mad Max?"
  */
 console.log("Pregunta 1:", nombreCompleto);
 

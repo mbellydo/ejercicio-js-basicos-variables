@@ -26,4 +26,5 @@ let paisVivir = "EE.UU.";
 let trabajoEnsueño = "Web Developer";
 
 futuro = "Tú estarás " + paisVivir + " trabajando de " + trabajoEnsueño + " y tu pareja será " + proximaPareja + " y tendréis " + numeroGatos + " gatos.";
+futuro2 = `Tú estarás ${paisVivir} trabajando de ${trabajoEnsueño} y tu pareja será ${proximaPareja} y tendréis ${numeroGatos}.`;
 console.log(futuro);
